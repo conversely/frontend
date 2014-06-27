@@ -1,0 +1,32 @@
+{
+  "name": "conversely-frontend",
+  "version": "0.0.0",
+  "description": "frontend for conversely forum",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/conversely/frontend.git"
+  },
+  "keywords": [
+    "forum",
+    "conversely",
+    "frontend"
+  ],
+  "author": "conversely team",
+  "private": true,
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/conversely/frontend/issues"
+  },
+  "homepage": "https://github.com/conversely/frontend",
+  "devDependencies": {
+    "browserify": "^4.1.11",
+    "tape": "^2.13.3"
+  }
+}
